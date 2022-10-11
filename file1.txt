@@ -1,4 +1,8 @@
 Hello world!
 12345
+<<<<<<< HEAD
 Good buy!
 1111
+=======
+Good buy!
+>>>>>>> 1755714b94ffbb6f762de2e9e7a7624c1add2f96
