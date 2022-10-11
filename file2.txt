@@ -1,3 +1,7 @@
 Good bye!
 Some other line
+<<<<<<< HEAD
 Hello
+=======
+add some code here
+>>>>>>> 4faba4cbf2754be861af3c0da83700af2b07bbff
