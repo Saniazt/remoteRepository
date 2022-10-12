@@ -6,3 +6,4 @@ Good buy!
 =======
 Good buy!
 >>>>>>> 1755714b94ffbb6f762de2e9e7a7624c1add2f96
+Line from user1
