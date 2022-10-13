@@ -5,3 +5,4 @@ Good buy!
 1111
 Line from user2
 Line from user1
+New line for rebase
