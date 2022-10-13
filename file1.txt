@@ -6,3 +6,4 @@ Good buy!
 Line from user2
 Line from user1
 New line for rebase
+new line from user1 - lesson about base
